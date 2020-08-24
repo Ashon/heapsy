@@ -1,0 +1,8 @@
+-r requirements.txt
+
+flake8==3.7.7
+pytest==4.5.0
+pytest-cov==2.7.1
+pytest-pythonpath==0.7.3
+twine==2.0.0
+wheel==0.34.2

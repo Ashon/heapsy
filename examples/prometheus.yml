@@ -1,0 +1,7 @@
+scrape_configs:
+- job_name: 'flask-heapusage'
+  scrape_interval: 30s
+  scrape_timeout: 30s
+  static_configs:
+  - targets:
+    - localhost:5000

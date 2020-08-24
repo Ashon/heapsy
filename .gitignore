@@ -1,0 +1,12 @@
+.vscode
+*.swp
+
+__pycache__
+.python-version
+.coverage
+.pytest_cache
+.env
+
+build
+dist
+*.egg-info
